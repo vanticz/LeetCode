@@ -3,6 +3,7 @@
 ##Algorithms
   #   | Title        | Solutions    | Difficulty   | Analysis
 ----- | ------------ | ------------ | ------------ | --------
+8     | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Javascript](./solutions/8.String_to_Integer/string-to-integer-atoi.js) [Python](./solutions/8.String_to_Integer/string-to-integer-atoi.py) | Easy | [Analysis](./solutions/8.String_to_Integer/README.md)
 7     | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Javascript](./solutions/7.Reverse_Integer/reverse-integer.js) [Python](./solutions/7.Reverse_Integer/reverse-integer.py) | Easy | [Analysis](./solutions/7.Reverse_Integer/README.md)
 6     | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Javascript](./solutions/6.ZigZag_Conversion/zigzag-conversion.js) [Python](./solutions/6.ZigZag_Conversion/zigzag-conversion.py) | Easy | [Analysis](./solutions/6.ZigZag_Conversion/README.md)
 5     | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Javascript](./solutions/5.Longest_Palindromic_Substring/longest-palindromic-substring.js) [Python](./solutions/5.Longest_Palindromic_Substring/longest-palindromic-substring.py) | Medium | [Analysis](./solutions/5.Longest_Palindromic_Substring/README.md)
