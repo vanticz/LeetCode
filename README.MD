@@ -3,6 +3,7 @@
 ##Algorithms
   #   | Title        | Solutions    | Difficulty   | Analysis
 ----- | ------------ | ------------ | ------------ | --------
+7     | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Javascript](./solutions/7.Reverse_Integer/reverse-integer.js) [Python](./solutions/7.Reverse_Integer/reverse-integer.py) | Easy | [Analysis](./solutions/7.Reverse_Integer/README.md)
 6     | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Javascript](./solutions/6.ZigZag_Conversion/zigzag-conversion.js) [Python](./solutions/6.ZigZag_Conversion/zigzag-conversion.py) | Easy | [Analysis](./solutions/6.ZigZag_Conversion/README.md)
 5     | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Javascript](./solutions/5.Longest_Palindromic_Substring/longest-palindromic-substring.js) [Python](./solutions/5.Longest_Palindromic_Substring/longest-palindromic-substring.py) | Medium | [Analysis](./solutions/5.Longest_Palindromic_Substring/README.md)
 4     | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Javascript](./solutions/4.Median_of_Two_Sorted_Arrays/median-of-two-sorted-arrays.js) [Python](./solutions/4.Median_of_Two_Sorted_Arrays/median-of-two-sorted-arrays.py) | Hard | [Analysis](./solutions/4.Median_of_Two_Sorted_Arrays/README.md)
